@@ -1,4 +1,4 @@
-This repo is forked from https://github.com/tylin/coco-caption/tree/3f0fe9b819c0ea881a56441e4de1146924a394eb and some tiny changes are made to support python 3.6.2.
+This repo support python 3.6.2.
 
 
 Microsoft COCO Caption Evaluation
